@@ -12,7 +12,7 @@ Support me
 -------------------------------------------------
 - Discord: https://bit.ly/StyleV-DC
 - Support Server: https://discord.gg/xxsWwgyBBV
-- YouTube: hhtps://www.youtube.com/@luvus
+- YouTube: https://www.youtube.com/@luvus
 
 Credits from the Cars:
 -------------------------------------------------
