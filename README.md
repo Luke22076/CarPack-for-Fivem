@@ -6,7 +6,7 @@ Please do not pass this CarPack off as yours!
 How to install?
 -------------------------------------------------
 
-Just download the ZIP and put it into your resource folder. Then add [**ensure [CarPack]**] to your server.cfg! All done :)
+Just download the ZIP and put it into your resource folder. Then add `**ensure [CarPack]` to your server.cfg! All done :)
 
 Support me
 -------------------------------------------------
