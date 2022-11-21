@@ -25,3 +25,4 @@ Credits from the Cars:
 7. https://de.gta5-mods.com/vehicles/mercedes-sl63-amg-2023-add-on-replace
 8. https://de.gta5-mods.com/vehicles/bmw-m5-1995
 9. https://de.gta5-mods.com/vehicles/aston-martin-db10-jamebond-edition
+10. https://de.gta5-mods.com/vehicles/audi-rs6-2020-abt-add-on-fivem-tuning
