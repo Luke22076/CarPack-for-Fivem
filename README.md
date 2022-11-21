@@ -1,4 +1,4 @@
-# CarPack for FiveM
+# CarPack for FiveM | Civilian cars
 A CarPack converted by Luvus ツ#7485
 -------------------------------------------------
 Please do not pass this CarPack off as yours!
@@ -8,7 +8,13 @@ How to install?
 
 Just download the ZIP and put it into your resource folder. Then add *ensure [CarPack]* to your server.cfg! All done :)
 
-*Credits from the Cars:*
+Support me
+-------------------------------------------------
+Discord: https://bit.ly/StyleV-DC
+Support Server: https://discord.gg/xxsWwgyBBV
+YouTube: hhtps://www.youtube.com/@luvus
+
+Credits from the Cars:
 -------------------------------------------------
 1. https://de.gta5-mods.com/vehicles/california-department-of-forestry-fire-chopper-cal-fire-404-columbia-helitak-skylinegtrfreak-darthpungz
 2. https://de.gta5-mods.com/vehicles/porsche-911-singer-dls-edition-addon-unlocked
