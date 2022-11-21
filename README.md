@@ -13,3 +13,4 @@ Just download the ZIP and put it into your resource folder. Then add *ensure [Ca
 1. https://de.gta5-mods.com/vehicles/california-department-of-forestry-fire-chopper-cal-fire-404-columbia-helitak-skylinegtrfreak-darthpungz
 2. https://de.gta5-mods.com/vehicles/porsche-911-singer-dls-edition-addon-unlocked
 3. https://www.gtainside.com/gta5/cars/171043-audi-rs6-c8-addon-fivem-tuning/
+4. https://de.gta5-mods.com/vehicles/toyota-gr-86-rz-add-on-tuning-template-fivem-rhd
