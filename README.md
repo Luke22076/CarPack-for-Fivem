@@ -2,9 +2,12 @@
 A CarPack converted by Luvus ツ#7485
 -------------------------------------------------
 Please do not pass this CarPack off as yours!
-*How to install?*
+
+How to install?
 -------------------------------------------------
+
 Just download the ZIP and put it into your resource folder. Then add *ensure [CarPack]* to your server.cfg! All done :)
+
 *Credits from the Cars:*
 -------------------------------------------------
 1. https://de.gta5-mods.com/vehicles/california-department-of-forestry-fire-chopper-cal-fire-404-columbia-helitak-skylinegtrfreak-darthpungz
