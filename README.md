@@ -10,9 +10,9 @@ Just download the ZIP and put it into your resource folder. Then add *ensure [Ca
 
 Support me
 -------------------------------------------------
-Discord: https://bit.ly/StyleV-DC
-Support Server: https://discord.gg/xxsWwgyBBV
-YouTube: hhtps://www.youtube.com/@luvus
+- Discord: https://bit.ly/StyleV-DC
+- Support Server: https://discord.gg/xxsWwgyBBV
+- YouTube: hhtps://www.youtube.com/@luvus
 
 Credits from the Cars:
 -------------------------------------------------
