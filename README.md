@@ -20,3 +20,4 @@ Credits from the Cars:
 2. https://de.gta5-mods.com/vehicles/porsche-911-singer-dls-edition-addon-unlocked
 3. https://www.gtainside.com/gta5/cars/171043-audi-rs6-c8-addon-fivem-tuning/
 4. https://de.gta5-mods.com/vehicles/toyota-gr-86-rz-add-on-tuning-template-fivem-rhd
+5. https://de.gta5-mods.com/vehicles/audi-q8-50tdi-2020-add-on-fivem
