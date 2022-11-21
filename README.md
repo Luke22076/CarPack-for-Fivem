@@ -22,3 +22,4 @@ Credits from the Cars:
 4. https://de.gta5-mods.com/vehicles/toyota-gr-86-rz-add-on-tuning-template-fivem-rhd
 5. https://de.gta5-mods.com/vehicles/audi-q8-50tdi-2020-add-on-fivem
 6. https://de.gta5-mods.com/vehicles/2021-porsche-taycan-turbo-s-add-on
+7. https://de.gta5-mods.com/vehicles/mercedes-sl63-amg-2023-add-on-replace
