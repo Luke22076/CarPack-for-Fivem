@@ -27,3 +27,4 @@ Credits from the Cars:
 9. https://de.gta5-mods.com/vehicles/aston-martin-db10-jamebond-edition
 10. https://de.gta5-mods.com/vehicles/audi-rs6-2020-abt-add-on-fivem-tuning
 11. https://de.gta5-mods.com/vehicles/chevrolet-bolt-2021-add-on-fivem
+12. https://de.gta5-mods.com/vehicles/lamborghini-urus-hycade
