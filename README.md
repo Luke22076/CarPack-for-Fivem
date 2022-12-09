@@ -13,6 +13,7 @@ Support me
 - Discord: https://bit.ly/StyleV-DC
 - Support Server: https://discord.gg/xxsWwgyBBV
 - YouTube: https://www.youtube.com/@luvus
+- Web: https://luvus.netlify.app/
 
 Credits from the Cars:
 -------------------------------------------------
