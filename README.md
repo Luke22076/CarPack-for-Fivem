@@ -1,6 +1,7 @@
 # CarPack for FiveM | Civilian cars | Version 1.9
 A CarPack converted by Luvus ツ#0001
 -------------------------------------------------
+![Car Menu](https://img.shields.io/badge/Cars%20As%20of%20Now-161-brightgreen?style=for-the-badge)
 Please do not claim these as yours!
 
 How to install?
